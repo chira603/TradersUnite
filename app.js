@@ -1,6 +1,6 @@
 /* ===== EDIT HERE: all site content lives in this file ===== */
 /* Contact details. Change them here and every page updates. */
-const WA="919785602191",WA_SHOW="+91 9785602191";   /* general / founder / hiring WhatsApp */
+const WA="919785642191",WA_SHOW="+91 9785642191";   /* general / founder / hiring WhatsApp */
 const WC="919785642191",WC_SHOW="+91 9785642191";   /* forex course & investment enquiries */
 const TG_URL="https://t.me/Mohanthakurfx";
 const WCOMM="https://chat.whatsapp.com/IJ2SH2K2TtHIKNDZMo1VeL";
