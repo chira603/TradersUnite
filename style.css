@@ -422,3 +422,11 @@ footer .grid{grid-template-columns:1fr}
 @media(max-width:700px){.g>a.btn{display:block;width:100%;text-align:center;border-radius:14px}}
 
 .ytb{background:#FF0000!important;border:0!important;color:#fff!important}
+
+.netb{color:var(--gold)}
+.addr{display:flex;flex-wrap:wrap;gap:10px;align-items:center;margin:0 0 12px;padding:12px;border:1px dashed rgba(212,175,55,.55);border-radius:12px;background:rgba(212,175,55,.06)}
+.addr code{flex:1 1 240px;font-family:ui-monospace,Menlo,Consolas,monospace;font-size:.86rem;color:#f3e7b3;word-break:break-all;user-select:all}
+.addr .cpy{padding:8px 16px;font-size:.82rem;border-radius:10px;background:var(--gold);color:#111;border:0;cursor:pointer;font-weight:700}
+.warn{margin:0 0 10px;padding:10px 12px;border-radius:10px;background:rgba(239,68,68,.1);border:1px solid rgba(239,68,68,.35);color:#fca5a5;font-size:.86rem}
+#usd .payin img{background:#fff;padding:6px}
+@media(max-width:700px){.payin .mut,.payin p{text-align:left}.payin ol li{padding-left:0}.addr code{font-size:.8rem}}
